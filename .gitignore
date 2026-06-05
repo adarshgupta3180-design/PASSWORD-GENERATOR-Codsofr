@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment / pip local install (created by ensurepip in this project)
+Lib/
+Scripts/
+pyvenv.cfg
+
+# Runtime data — history file is generated at runtime, do not commit
+data/history.json
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
